@@ -6,7 +6,7 @@ if __name__ == "__main__":
     major_system = MajorSystem()
     vocab = Vocabulary()
 
-    prompt = "Enter a number (press enter to exit): "
+    prompt = "Enter a number (leave empty and press enter to exit): "
     number = input(prompt)
 
     while number != "":
