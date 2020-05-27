@@ -18,6 +18,7 @@ class Vocabulary:
 
     def download(self):
         print("Downloading vocabulary file...")
+        os.makedirs(self.data_path, exist_ok=True)
         file_path = os.path.join(self.data_path, self.vocabulary_file)
         if os.path.exists(file_path):
             print("Not necessary, vocabulary file already downloaded.")
