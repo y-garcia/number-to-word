@@ -12,7 +12,7 @@ Convert a number to a word using the [mnemonic major system](https://en.wikipedi
 git clone https://github.com/y-garcia/number-to-word
 cd number-to-word
 pip install -r requirements.txt
-python number_to_word.py
+python number_to_word/number_to_word.py
 ```
 
 ## Usage
