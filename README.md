@@ -30,7 +30,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/y-garcia/tomate-timer/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/y-garcia/number-to-word/tags).
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details. 
 
@@ -38,7 +38,7 @@ See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 * **Yeray García Quintana** - Initial work - [y-garcia](https://github.com/y-garcia)
 
-See also the list of [contributors](https://github.com/y-garcia/tomate-timer/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/y-garcia/number-to-word/contributors) who participated in this project.
 
 ## License
 
